@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucket1" {
-	bucket = "vishnu-first-bucket-19oct"
+	bucket = "vshnu-first-bucket-19oct"
 }
 
 
